@@ -5,7 +5,8 @@ Aplicação web desenvolvida para gerenciamento de solicitações de reembolso, 
 
 O projeto foi criado como projeto de formação Fullstack, com foco em boas práticas de desenvolvimento com React, organização de rotas e construção de interfaces modernas utilizando TailwindCSS.
 
-📸 Preview do Projeto
+## 📸 Pré-visualização
+![Preview do Refund](.png)
 
 Interface moderna com tema escuro, painel de solicitações e separação entre área do cliente e área administrativa.
 
